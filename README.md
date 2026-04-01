@@ -36,8 +36,3 @@ high ESG score AND undervalued DCF
 - esg_analysis.py — Main analysis code
 - esg_ranking.png — ESG Ranking chart
 - investment_matrix.png — Decision Matrix
-ใช้ได้ทันที:
-- ใส่ใน Resume
-- ใส่ใน LinkedIn
-- แนบตอนสมัครงาน
-- ส่งให้อาจารย์ดู
